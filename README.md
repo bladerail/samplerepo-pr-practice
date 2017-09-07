@@ -15,10 +15,13 @@ With this merge, does add-summary branch get this? Does master get this? Does ad
 So I found out, add-summary gets the new text above but master and add-intro do not. I will now merge add-summary with master, then try to revert to a previous commit.
 
 I will now add unwanted lines to a commit which I will revert later.
-Unwanted line 1.
-Unwanted line 2.
-Unwanted line 3.
-Unwanted line 4.
-Unwanted line 5.
-Unwanted line 6.
-Unwanted line 7.
+Wanted line 1.
+Wanted line 2.
+Wanted line 3.
+Wanted line 4.
+Wanted line 5.
+Wanted line 6.
+Wanted line 7.
+
+
+So the previous change wasn’t reflected at all and the unwanted lines are still here. I will now change them to wanted lines and revert back to them later.
