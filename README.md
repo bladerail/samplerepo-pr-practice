@@ -13,3 +13,5 @@ Now testing Add Summary
 Adding new lines for new add-intro commit
 
 With this merge, does add-summary branch get this? Does master get this? Does add-intro get this?
+
+So I found out, add-summary gets the new text above but master and add-intro do not. I will now merge add-summary with master, then try to revert to a previous commit.
