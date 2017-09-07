@@ -8,8 +8,6 @@ I'm going to commit a second time now, to see if I'm still getting an error tryi
 First two commits completed. 
 Now testing Add Summary
 
-
-
 Adding new lines for new add-intro commit
 
 With this merge, does add-summary branch get this? Does master get this? Does add-intro get this?
